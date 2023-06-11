@@ -7,5 +7,6 @@
         preset: "fire",
     });
 })();
+console.log(1)
 
 
